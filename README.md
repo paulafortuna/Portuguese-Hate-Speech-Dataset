@@ -1,6 +1,6 @@
 # Hierarchically-Labeled-Portuguese-Hate-Speech-Dataset
 
-The repo contains the data set for the paper titled "A Hierarchically-Labeled-Portuguese-Hate-Speech-Dataset", accepted at ALW3 Workshop at ACL 2019 (Florence, Italy).
+The repo contains the data set for the paper titled "A Hierarchically Labeled Portuguese Hate Speech Dataset", accepted at ALW3 Workshop at ACL 2019 (Florence, Italy).
 
 If you use this dataset please cite:
 
